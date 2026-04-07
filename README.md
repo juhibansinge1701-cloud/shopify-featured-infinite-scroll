@@ -1,0 +1,1 @@
+# shopify-featured-infinite-scroll
